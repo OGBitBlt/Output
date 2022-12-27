@@ -1,0 +1,21 @@
+{
+    "name": "ogbitblt/output",
+    "description": "Library for logging text output in popular formats",
+    "type": "library",
+    "require": {
+        "php": "^8.2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OGBitBlt\\Output\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anthony Davis",
+            "email": "ogbitblt@pm.me"
+        }
+    ],
+    "minimum-stability": "stable"
+}
